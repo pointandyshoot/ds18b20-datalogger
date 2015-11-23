@@ -4,9 +4,13 @@ This project uses an Arduino to record temperature from a string of DS18B20 sens
 It uses the following shields and equipment:
 
 1 x Arduino UNO
+
 1 x Adafruit SD card logger with real time clock
+
 1 x Sparkfun serial interface 16x2 LCD display
+
 1 x 4xAA battery pack 
+
 4 x Catalex Digital Temperature Sensor v1.0
     This is used for its built in resistor, one for each active arduino pin
     
